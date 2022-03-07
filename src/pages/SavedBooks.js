@@ -52,6 +52,7 @@ export const SavedBooks = () => {
 
   if (data) {
     userData = data.me;
+    console.log(userData);
   }
 
   return (
