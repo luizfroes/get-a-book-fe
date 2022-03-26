@@ -17,9 +17,9 @@
 
 ## Summary
 
-A book search application powered by the Google Books API. Users can search books and then save to and delete from their accounts. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/GraphQL server and API. The application allows users to save book searches to the back end. 
+A book search application powered by the Google Books API. Users can search books and then save to and delete from their accounts. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/GraphQL server and API. The application allows users to save book searches to the back end.
 
-![portfolio demo](./public/assets/images/tech-blog-home.png)
+![portfolio demo](./readme-img/image1.png)
 
 <a name="user-story"></a>
 
@@ -64,10 +64,10 @@ THEN I am presented with all of the books I have saved to my account, each featu
 WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
-THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
 
-![portfolio demo](./public/assets/images/tech-blog-signup.png)
+![portfolio demo](./readme-img/image2.png)
 
 <a name="languages"></a>
 
@@ -88,7 +88,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - GraphQL
 - React
 
-![portfolio demo](./public/assets/images/tech-blog-post.png)
+![portfolio demo](./readme-img/image3.png)
 
 <a name="installation"></a>
 
